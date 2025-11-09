@@ -1,0 +1,5 @@
+{
+  "name": "Padronizador de Descrição de Materiais",
+  "description": "Uma aplicação para padronizar descrições de materiais não estruturadas em um formato técnico e organizado, seguindo os princípios de PDM, DAMA-DMBOK e normas relevantes.",
+  "requestFramePermissions": []
+}
